@@ -1,0 +1,17 @@
+Lipstick;69;183
+Lips;73;119
+Mushroom;84;503
+Mascara;137;224
+Tepee;215;314
+Pennant;233;356
+Flag;288;456
+Candy;298;177
+Bell;368;267
+Shoe #1;418;220
+House;468;202
+Ring;467;310
+Pacifier;501;242
+Bottle;521;359
+Shoe #2;527;417
+Heart;535;56
+Rain drop;545;80
