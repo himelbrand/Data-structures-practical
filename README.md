@@ -19,6 +19,7 @@ in the files of this repo you can find the following:
 * hebrew instructions as pdf
 * source files given as skeleton in Source Files dir
 * my implementation in src dir
-* my bonus data, txt and jpg files in bonus dir
+* test files for GUI, found in GUI files
+* my bonus data, txt and jpg files in GUI bonus dir
 
 more english info will be added
